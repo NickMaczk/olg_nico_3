@@ -9,7 +9,7 @@ OglComponent::OglComponent()
 	context.attachTo(*this);
 
 	shapes.push_back(std::make_unique<Rectangle>());
-	shapes.push_back(std::make_unique<Rectangle>());
+	//shapes.push_back(std::make_unique<Rectangle>());
 
 	//shapes.back()
 }

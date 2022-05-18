@@ -1,0 +1,18 @@
+Builds
+JuceLibraryCode
+.DS_Store
+third_party
+
+# tests
+JuceLibraryCode
+Builds
+
+# linux IDE stuff
+compile_commands.json
+*.cflags
+*.config
+*.creator
+*.creator.user
+*.cxxflags
+*.files
+*.includes
